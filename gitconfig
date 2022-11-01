@@ -1,0 +1,8 @@
+[user]
+	name = Oscar Chen
+	email = oscarguoyinchen@gmail.com
+[alias]
+	graph = log --decorate --oneline --graph
+	subupdate = submodule update --init --recursive
+[diff]
+	tool = vimdiff

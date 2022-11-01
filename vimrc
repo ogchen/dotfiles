@@ -16,7 +16,6 @@ Plugin 'kana/vim-operator-user'
 " Plugin 'Valloric/YouCompleteMe'
 Plugin 'morhetz/gruvbox'
 Plugin 'octol/vim-cpp-enhanced-highlight'
-" Plugin 'w0rp/ale'
 Plugin 'vim-airline/vim-airline'
 Plugin 'vim-airline/vim-airline-themes'
 
